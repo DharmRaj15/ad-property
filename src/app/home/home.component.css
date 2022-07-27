@@ -1,0 +1,19 @@
+.hot-title{
+    margin-top: 40px;
+}
+.hot-deal {
+    padding-top: 15px;
+    padding-left: 37px;
+    padding-right: 37px;
+    padding-bottom: 27px;
+    background: #f3f7fb;
+}
+
+.prop-info {
+    margin-top: 2px;
+    padding-top: 24px;
+    padding-bottom: 12px;
+    padding-left: 35px;
+    padding-right: 30px;
+    background: #f3f7fb;
+}
